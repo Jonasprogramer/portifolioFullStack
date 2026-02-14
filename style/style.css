@@ -65,3 +65,48 @@
     text-decoration: none;
     color: #000;
 }
+
+
+/*section 02*/
+.contacts{
+    display: flex;
+    justify-content: center;
+}
+.cont {
+    padding: 50px;
+}
+.cont a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+/*section 03*/
+.aboutMe{
+    background-color: #F3EEFF;
+    padding: 50px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+.aboutMenu{
+    padding: 0px 0px 20px 0px;
+}
+.aboutMenu h2{
+    padding: 0px 0px 20px 0px;
+}
+
+.container-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 25%;
+    height: 200px;
+    border-radius: 40px;
+    background-color: #000;
+    text-align: center;
+    color: #F3EEFF;
+    padding: 20px;
+}
